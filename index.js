@@ -46,6 +46,6 @@ app.post('/validateToken',(req,res)=>{
 })
 const userMap ={
     name : "Manik Manchanda",
-    password : "manik1234",
+    password : "manik12345",
     userId : "db027020-3717-4f8c-ade7-133375600ebd"
 };
